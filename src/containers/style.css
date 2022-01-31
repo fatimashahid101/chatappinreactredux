@@ -1,0 +1,17 @@
+.login-card{
+    padding: 20px;
+    margin: 20px;
+}
+.h1{
+   align-items: center;
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.users-card{
+    padding: 10px;
+}
+.chat-card{
+    padding: 10px;
+    margin-left: 20px;
+}
